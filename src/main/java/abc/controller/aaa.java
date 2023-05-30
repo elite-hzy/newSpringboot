@@ -6,5 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/abca")
 @RestController
 public class aaa {
+    public static void main(String[] args) {
 
+    }
 }
